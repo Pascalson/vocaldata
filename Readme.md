@@ -25,7 +25,7 @@ If you need this corpus for academic use, please email your purpose and institut
 
 - SONGS.TXT: singer, clustered genres information of each song.
 - SONG_ori.TXT: raw genres information.
-- SETS.TXT: the ID list of songs in `train\_clean/`, `test\_clean/`, `train\_other/`, `test\_other/`.
+- SETS.TXT: the ID list of songs in `train_clean/`, `test_clean/`, `train_other/`, `test_other/`.
 - SINGERS.TXT: singer information.
 - CLIPS.TXT: duration, labels of singing speed, and harmony existence of each clip.
 
