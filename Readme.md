@@ -1,6 +1,10 @@
 # Vocal Data
 
-The VocalData is a corpus of lyrics singing voice, separated from songs of professional singers. Its purpose is to enable the training and testing of automatic lyrics recognition(ALR) systems. More information about the corpus and experiments can be found in [our paper](https://arxiv.org/abs/1804.05306) (In this paper, we only used train_clean and test_clean data). One can also take a look at the [Demo](https://pascalson.github.io/Transcribing_Lyrics.html).
+The VocalData is a corpus of lyrics singing voice, separated from songs of professional singers. Its purpose is to enable the training and testing of automatic lyrics recognition (ALR) systems.
+
+More information about the corpus and experiments can be found in [our paper](https://arxiv.org/abs/1804.05306) (In this paper, we only used train_clean and test_clean data).
+
+One can also take a look at the [Demo](https://pascalson.github.io/Transcribing_Lyrics.html).
 
 If you need this corpus for academic use, please email your purpose and institution to:
 * Pascal: pascaltuan@gmail.com
