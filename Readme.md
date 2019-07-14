@@ -4,7 +4,6 @@ The VocalData is a corpus of lyrics singing voice, separated from songs of profe
 
 If you need this corpus for academic use, please email your purpose and institution to:
 * Pascal: pascaltuan@gmail.com
-* Jacky:
 
 
 ## General Information
