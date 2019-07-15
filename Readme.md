@@ -8,6 +8,7 @@ One can also take a look at the [Demo](https://pascalson.github.io/Transcribing_
 
 If you need this corpus for academic use, please email your purpose and institution to:
 * Pascal: pascaltuan@gmail.com
+* Che-Ping: r06922039@ntu.edu.tw
 
 
 ## General Information
